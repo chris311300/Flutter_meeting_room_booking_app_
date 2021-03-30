@@ -32,4 +32,4 @@ Technical Questions:
 
 3.  How would you track down a performance issue in production? Have you ever had to do this?
 
-- I would firstly check resource usage. I.e. Battery, ram usage. If possible, I would try to optimize everything as much as possible. Some examples would be compressing images to a slight extent and turning down the location accuracy if location was required and also try to minify the code as much as possible. Yes I had to do it once, when I was working on an App that required location permissions, but ended up nothing being able to do much as the app required the location to be at its highest accuracy.
+-I would firstly check resource usage. I.e. Battery, ram usage. If possible, I would try to optimize everything as much as possible. Some examples would be compressing images to a slight extent and turning down the location accuracy if location was required and also try to minify the code as much as possible. Yes I had to do it once, when I was working on an App that required location permissions, but ended up nothing being able to do much as the app required the location to be at its highest accuracy.
