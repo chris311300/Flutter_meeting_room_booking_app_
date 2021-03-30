@@ -21,6 +21,8 @@ Packages Used:
 
 -   curved_navigation_bar: ^0.3.7
 
+Demo:
+
 https://user-images.githubusercontent.com/71595293/113053534-45656580-91a0-11eb-9155-a6acce7c7fe9.mp4
 
 
