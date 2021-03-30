@@ -1,3 +1,4 @@
+
 Flutter Application. Solution to SSG Technical test
 
 -   User Story Completed.
@@ -19,6 +20,9 @@ Packages Used:
 -   http: ^0.13.1
 
 -   curved_navigation_bar: ^0.3.7
+
+https://user-images.githubusercontent.com/71595293/113053534-45656580-91a0-11eb-9155-a6acce7c7fe9.mp4
+
 
 Technical Questions:
 
